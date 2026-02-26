@@ -1,0 +1,16 @@
+TP6:
+
+J'ai mis en place
+
+Une VM Ubuntu Server LTS
+Un réseau NAT
+
+Questions:
+
+1: Une autorisation CA agit pour la sécurisation des communications et des transactions sur Internet
+
+2: Seul le propriétaire peut accéder à la clé privée pour déchiffrer les messages chiffrés à l'aide de la clé publique correspondante. 
+Un certificat numérique signé est un moyen standard pour vérifier l'authenticité d'une entité telle qu'un serveur, un client ou une application.
+
+3: Un serveur VPN (comme OpenVPN) utilise des certificats pour garantir la sécurité des connexions.
+Ces certificats sont nécéssaires pour: Vérifier l’identité, chiffrer la connexion, empêcher l’usurpation. Sans certificats il n'y a pas de sécurité.
